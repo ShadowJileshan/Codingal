@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Cool Audio</title>
+    </head>
+    <body>
+        <h1>Aura Clip</h1>
+        <audio controls>
+            <source src="Chager.mp3" type="audio/mp3">
+            Your browser does not support the audio element.
+        </audio>
+    </body>
+</html>
